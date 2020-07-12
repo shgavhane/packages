@@ -4,6 +4,7 @@
     "description": "test description",
     "keywords": ["test","package","go","here"],
     "homepage": "https://testapackage.lcl",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
