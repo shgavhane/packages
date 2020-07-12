@@ -4,7 +4,7 @@
     "description": "test description",
     "keywords": ["test","package","go","here"],
     "homepage": "https://testapackage.lcl",
-    "license": "SG",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sandeep G ",
