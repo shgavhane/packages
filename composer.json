@@ -3,13 +3,13 @@
     "type": "library",
     "description": "test description",
     "keywords": ["test","package","go","here"],
-    "homepage": "https://yourcompany.com",
-    "license": "MIT",
+    "homepage": "https://testapackage.lcl",
+    "license": "SG",
     "authors": [
         {
             "name": "Sandeep G ",
             "email": "sandeep.gavhane@gmail.com",
-            "homepage": "https://yourcompany.com",
+            "homepage": "https://testapackage.lcl",
             "role": "Developer"
         }
     ]
