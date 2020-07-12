@@ -1,0 +1,16 @@
+{
+    "name": "sgavhane/test_package",
+    "type": "library",
+    "description": "test description",
+    "keywords": ["test","package","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sandeep G ",
+            "email": "sandeep.gavhane@",
+            "homepage": "https://yourcompany.com",
+            "role": "Developer"
+        }
+    ],
+}
